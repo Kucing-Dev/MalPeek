@@ -1,4 +1,4 @@
-## Simple Malware Analyzer
+## MalPeek (Malware Analyzer)
 
 Sebuah alat sederhana berbasis Python untuk analisis file biner secara statis. Cocok untuk pemula di bidang malware analysis, forensik digital, dan reverse engineering.
 
